@@ -1,0 +1,1 @@
+web: gunicorn emotion_detector.wsgi --log-file -

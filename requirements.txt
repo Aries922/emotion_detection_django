@@ -1,0 +1,70 @@
+# ADDDDed IT
+dj_database_url
+whitenoise
+fer
+mtcnn
+Pillow
+django-cors-headers
+
+#why it is needed to in requirement file??
+tensorflow
+cloudinary
+django-storages
+astunparse
+psycopg2-binary
+
+
+clang
+Keras-Preprocessing
+Markdown
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow-estimator
+keras
+kiwisolver
+matplotlib
+opencv-contrib-python
+pyparsing
+python-dateutil
+pytz
+requests
+tqdm
+six
+cycler
+absl-py
+asgiref
+boto3
+botocore
+dj-database-url
+Django
+django-filter
+django-rest-framework
+djangorestframework
+gunicorn
+Markdown
+numpy
+oauthlib
+opencv-python
+packaging
+pandas
+pexpect
+requests-file
+opencv-python-headless
+requests-oauthlib
+requests-unixsocket
+urllib3
+
+# flatbuffers==1.12
+# gast==0.4.0
+# google-auth==1.35.0
+# google-auth-oauthlib==0.4.6
+# google-pasta==0.2.0
+# grpcio==1.41.0
+# h5py==3.1.0
+# termcolor==1.1.0
+# Werkzeug==2.0.1
+# wrapt==1.12.1
+# opt-einsum==3.3.0
+# protobuf==3.18.0
+# requests-oauthlib==1.3.0
